@@ -1,2 +1,0 @@
-# Kwoo
-RizerAssigment
